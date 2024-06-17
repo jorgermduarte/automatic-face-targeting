@@ -32,7 +32,7 @@ pip install opencv-python numpy pillow
 ## Usage
 Run the application with the following command:
 ```bash
-python app.py
+python face_detection.py
 ```
 
 Ensure your webcam is enabled and functioning, as the application captures video feed from the default video source (typically the first webcam device).
