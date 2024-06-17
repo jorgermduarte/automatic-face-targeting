@@ -36,3 +36,10 @@ python face_detection.py
 ```
 
 Ensure your webcam is enabled and functioning, as the application captures video feed from the default video source (typically the first webcam device).
+
+
+## Usage Example
+
+<p align="center">
+  <img src="example.png" width="50%">
+</p>
